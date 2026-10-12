@@ -3,12 +3,12 @@ name: Validate schema
 on:
   push:
     branches:
-      - main
+      - master
     paths:
       - SpookyUnits.Plugin/json/**
   pull_request:
     branches:
-      - main
+      - master
     paths:
       - SpookyUnits.Plugin/json/**
 
