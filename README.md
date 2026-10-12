@@ -13,7 +13,7 @@ A port (with improvements) of the SpookyStewards Mod from MT1 originally by [Shi
 ## Screenshots
 ![Battle](https://raw.githubusercontent.com/Monster-Train-2-Modding-Group/SpookyUnits/master/screenshots/battle.jpg)
 SpookyUnits/blob/master/screenshots/battle.jpg
-![Pumpkins](https://raw.githubusercontent.com/Monster-Train-2-Modding-Group/SpookyUnits/master/screenshots/fleshling.jpg)
+![Pumpkins](https://raw.githubusercontent.com/Monster-Train-2-Modding-Group/SpookyUnits/master/screenshots/fleshling.gif)
 
 ## Features
 * 70 pumpkins!
