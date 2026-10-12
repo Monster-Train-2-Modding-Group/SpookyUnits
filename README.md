@@ -6,13 +6,14 @@
 [![License](https://img.shields.io/github/license/Monster-Train-2-Modding-Group/SpookyUnits?color=lightgrey)](https://github.com/Monster-Train-2-Modding-Group/SpookyUnits/blob/main/LICENSE)
 [![Donate](https://img.shields.io/badge/Ko--Fi-brandonandzeus-F16061?color=F16061&logo=ko-fi&style=flat&labelColor=?color=4E4E4E&logoColor=FFFFFF)](https://ko-fi.com/brandonandzeus)
 
-![icon](https://raw.githubusercontent.com/Monster-Train-2-Modding-Group/SpookyUnits/main/icon.png)
+![icon](https://raw.githubusercontent.com/Monster-Train-2-Modding-Group/SpookyUnits/master/icon.png)
 
 A port (with improvements) of the SpookyStewards Mod from MT1 originally by [Shiny Shoe](https://github.com/shinyshoe/monster-train-mods)
 
 ## Screenshots
-![Battle](https://raw.githubusercontent.com/Monster-Train-2-Modding-Group/SpookyUnits/main/screenshots/battle.jpg)
-![Pumpkins](https://raw.githubusercontent.com/Monster-Train-2-Modding-Group/SpookyUnits/main/screenshots/fleshling.jpg)
+![Battle](https://raw.githubusercontent.com/Monster-Train-2-Modding-Group/SpookyUnits/master/screenshots/battle.jpg)
+SpookyUnits/blob/master/screenshots/battle.jpg
+![Pumpkins](https://raw.githubusercontent.com/Monster-Train-2-Modding-Group/SpookyUnits/master/screenshots/fleshling.jpg)
 
 ## Features
 * 70 pumpkins!
