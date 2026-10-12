@@ -13,6 +13,7 @@ A port (with improvements) of the SpookyStewards Mod from MT1 originally by [Shi
 ## Screenshots
 ![Battle](https://raw.githubusercontent.com/Monster-Train-2-Modding-Group/SpookyUnits/master/screenshots/battle.jpg)
 
+They move with the character!
 ![Pumpkins](https://raw.githubusercontent.com/Monster-Train-2-Modding-Group/SpookyUnits/master/screenshots/fleshling.gif)
 
 ## Features
@@ -24,6 +25,11 @@ A port (with improvements) of the SpookyStewards Mod from MT1 originally by [Shi
 
 Note only pumpkins seen during a run counts towards discovery. Pumpkins are not recorded from logbook viewing.
 
+## Known Issues
+* Some characters will not spawn with a pumpkin. This is usually characters/units from other mods which don't use spine animations (pumpkins will not move with non-spine animations).
+* Some in game characters also won't get a pumpkin (example: Daedalus). The technical reason for this is that they aren't set up as a in battle character so a pumpkin can't be attached to them.
+* Pumpkins will not appear on the run setup screen (this is due to some issues with MT1 champions)
+
 ## Installation
 
 It is **highly** recommended to use a mod manager (Thunderstore Mod Manager, Gale Mod Manager, or r2modman) to install this mod. If installing manually, then [Trainworks Reloaded](https://github.com/Monster-Train-2-Modding-Group/Trainworks-Reloaded) must be installed as well.
@@ -34,4 +40,4 @@ Once installed via mod manager or manually. Run the game once to populate the vi
 
 ## Lastly
 
-Use responsibly. Be sure to share your favorite unit + pumpkin in the community :D
+Use responsibly. Be sure to share your favorite unit + pumpkin combinations in the community :D
