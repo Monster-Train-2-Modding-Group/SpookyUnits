@@ -1,0 +1,505 @@
+{
+  "$schema": "https://github.com/Monster-Train-2-Modding-Group/Trainworks-Reloaded/releases/latest/download/schema.json",
+  "asset_bundles": [
+    {
+      "id": "SpookyUnitsAssetBundle",
+      "paths": {
+        "windows": "data/spookyunits_assetbundle.windows.bundle",
+        "linux": "data/spookyunits_assetbundle.linux.bundle",
+        "macosx": "data/spookyunits_assetbundle.macosx.bundle"
+      }
+    }
+  ],
+  "sprites": [
+    {
+      "id": "Pumpkin1",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin1.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin2",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin2.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin3",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin3.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin4",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin4.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin5",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin5.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin6",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin6.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin7",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin7.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin8",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin8.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin9",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin9.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin10",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin10.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin11",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin11.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin12",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin12.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin13",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin13.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin14",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin14.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin15",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin15.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin16",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin16.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin17",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin17.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin18",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin18.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin19",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin19.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin20",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin20.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin21",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin21.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin22",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin22.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin23",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin23.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin24",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin24.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin25",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin25.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin26",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin26.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin27",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin27.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin28",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin28.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin29",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin29.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin30",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin30.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin31",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin31.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin32",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin32.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin33",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin33.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin34",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin34.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin35",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin35.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin36",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin36.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin37",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin37.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin38",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin38.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin39",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin39.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin40",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin40.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin41",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin41.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin42",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin42.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin43",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin43.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin44",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin44.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin45",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin45.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin46",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin46.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin47",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin47.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin48",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin48.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin49",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin49.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin50",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin50.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin51",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin51.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin52",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin52.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin53",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin53.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin54",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin54.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin55",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin55.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin56",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin56.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin57",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin57.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin58",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin58.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin59",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin59.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin60",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin60.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin61",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin61.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin62",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin62.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin63",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin63.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin64",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin64.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin65",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin65.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin66",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin66.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin67",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin67.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin68",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin68.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin69",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin69.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    },
+    {
+      "id": "Pumpkin70",
+      "path": {
+        "asset_path": "Assets/SpookyUnits/Pumpkin70.png",
+        "bundle": "@SpookyUnitsAssetBundle"
+      }
+    }
+  ]
+}
